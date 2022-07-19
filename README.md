@@ -12,6 +12,7 @@
    right=null;
    }
  }
+ 
  Binary Tree Nodes are given
 tree.root=new Node(4);
 tree.root.left=new Node(2);
